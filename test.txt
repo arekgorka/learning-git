@@ -1,3 +1,4 @@
 example text
 modified file 
 blabla
+something new
